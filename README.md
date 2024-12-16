@@ -2,12 +2,11 @@
 <h1 align="center"> Eliciting Causal Abilities in Large Language Models for Reasoning Tasks </h1>
 
 <p align="center"> 
-    <!-- <a href="https://deepinception.github.io/"><img src="https://img.shields.io/badge/Project Website-deepinception" alt="Website"></a> -->
-    <a href="https://arxiv.org/abs/2410.23856"><img src="https://img.shields.io/badge/cs.ML-arXiv%3A2410.23856-b31b1b" alt="Paper"></a>
+    <!--<a href="https://arxiv.org/abs/2410.23856"><img src="https://img.shields.io/badge/cs.ML-arXiv%3A2410.23856-b31b1b" alt="Paper"></a>-->
 </p>
 
 <div align="center">
-    <img src="./imgs/Figure1.pdf" width="70%"/>
+    <img src="./imgs/Figure1.png" width="70%"/>
     <br>
     <em>llustrative examples demonstrating the purpose of our research problem.</em>
 </div>
